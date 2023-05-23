@@ -43,6 +43,18 @@ I would like to thank my friend for taking the time to record my keystrokes.
 `bash test.sh`
 
 **Pictures of the Process**
+  
+![Image](Login.png)
+  
+![Image](Git clone.png)
+  
+![Image](Tests Failing.png)
+  
+![Image](Edited File.png)
+
+![Image](Test Passing.png)
+  
+  
 
   
  
