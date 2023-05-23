@@ -15,4 +15,36 @@ This was even more frustrating because I kept pressing different letters and end
 Using Vim was a little difficult at first, but was fun to learn. I have been looking forward to see what Vim is about, since I know it is a topic in the coomputer science community. I have seen so many memes about Vim and how it is annoying to use. Now that I have a little bit of Vim experience, I can somewhat relate to the memes. At least I can close Vim, at least I hope so...
 
 # The Second Run
+The Second run was way better than my first run. My time was 6 minutes and 42 seconds. Now that is a time difference. 
+**Improvements**
+The biggest improvement here was the navigation. I was not confusing `h` with `j` and I also found out that you can you use your actual cursor to move around. Hopefully that isn't cheating. I also used shortcuts like `dw` to remove words miuch quicker and use less keystrokes. That is pretty much how I imrpoved. Maybe I should go for less keystrokes and do it in 5 minutes.
+
+**Keystrokes**
+I would like to thank my friend for taking the time to record my keystrokes. 
+
+`<up> <enter> `  I used the bash history to log into my ieng6 account
+
+`<ctrl c> <ctrl v> <enter>` To git clone the files
+
+`ls` `cd lab7` <enter>`
+
+`ls` `vim ListExamples.java <enter>`
+
+`dd` `u` I confused `dd` with `dw` so I press undo
+  
+`dw` on sc, `I checker` This was done twice on the code
+
+`I <enter>` to make a new line and then `System.out.println(Index1)` this was done twice for Index 1 and Index 2
+  
+`<esc> I 2` This was used to change index1 to index2
+  
+`<shift> wq! <enter>` To save files
+ 
+`bash test.sh
+  
+**Pictures of the Process**
+  
+  
+ 
+
 
