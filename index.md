@@ -40,10 +40,10 @@ I would like to thank my friend for taking the time to record my keystrokes.
   
 `<shift> wq! <enter>` To save files
  
-`bash test.sh
-  
+`bash test.sh`
+
 **Pictures of the Process**
-  
+
   
  
 
