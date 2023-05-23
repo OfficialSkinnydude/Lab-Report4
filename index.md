@@ -21,6 +21,7 @@ The Second run was way better than my first run. My time was 6 minutes and 42 se
 The biggest improvement here was the navigation. I was not confusing `h` with `j` and I also found out that you can you use your actual cursor to move around. Hopefully that isn't cheating. I also used shortcuts like `dw` to remove words miuch quicker and use less keystrokes. That is pretty much how I imrpoved. Maybe I should go for less keystrokes and do it in 5 minutes.
 
 **Keystrokes**
+
 I would like to thank my friend for taking the time to record my keystrokes. 
 
 `<up> <enter> `  I used the bash history to log into my ieng6 account
