@@ -46,13 +46,13 @@ I would like to thank my friend for taking the time to record my keystrokes.
   
 ![Image](Login.png)
   
-![Image](Git clone.png)
+![Image](GitClone.png)
   
-![Image](Tests Failing.png)
+![Image](TestsFailing.png)
   
-![Image](Edited File.png)
+![Image](EditedFile.png)
 
-![Image](Test Passing.png)
+![Image](TestsPassing.png)
   
   
 
