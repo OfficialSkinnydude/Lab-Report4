@@ -16,6 +16,7 @@ Using Vim was a little difficult at first, but was fun to learn. I have been loo
 
 # The Second Run
 The Second run was way better than my first run. My time was 6 minutes and 42 seconds. Now that is a time difference. 
+
 **Improvements**
 The biggest improvement here was the navigation. I was not confusing `h` with `j` and I also found out that you can you use your actual cursor to move around. Hopefully that isn't cheating. I also used shortcuts like `dw` to remove words miuch quicker and use less keystrokes. That is pretty much how I imrpoved. Maybe I should go for less keystrokes and do it in 5 minutes.
 
