@@ -43,7 +43,16 @@ I would like to thank my friend for taking the time to record my keystrokes.
   
 `<shift> wq! <enter>` To save files
  
-`bash test.sh`
+`bash test.sh` To check that the tests passed after editing ListExamples.java
+ 
+`git status` To show what file is modified. In this case, ListExamples.java
+  
+`git add ListExamples.java` To update the file on what will be committed
+ 
+`git commit -m "fixed"`     commit does the changes to the files and `-m` is to add a message. I chose the message "fixed"
+ 
+`git push` To push the files I committed to the repository, in this case, ListExamples.java
+ 
 
 **Pictures of the Process**
   
@@ -56,6 +65,9 @@ I would like to thank my friend for taking the time to record my keystrokes.
 ![Image](EditedFile.png)
 
 ![Image](TestsPassing.png)
+
+![Image](GitHub-Pushing.png) 
+ 
   
   
 
