@@ -49,7 +49,7 @@ I would like to thank my friend for taking the time to record my keystrokes.
   
 ![Image](Login.png)
   
-![Image](GitClone.png)
+![Image](GitCloned.png)
   
 ![Image](TestsFailing.png)
   
